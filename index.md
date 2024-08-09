@@ -6,6 +6,9 @@ layout: homepage
 
 Hey there! 👋 I'm Linghao Zhang, a 3rd year undergrad majoring in Software Engineering at Wuhan University, where I was mentored by [Peng Liang](https://www.researchgate.net/profile/Peng-Liang-4) and [Chong Wang](https://www.researchgate.net/profile/Chong-Wang-13). During my undergrad years, I embarked on the world of research, enjoying the journey of discovery and receiving solid academic training along the way. I'm dedicated to research at the intersection of **AI** and **Software Engineering**.
 
+*I'm looking for a PhD position in 25Fall.*
+
+
 ## Research Interests
 
 - **AI for SE:** LLM, Agent, NLP for tackling challenges in Software Engineering.
