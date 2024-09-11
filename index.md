@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hey there! 👋 I'm Linghao Zhang, a final year undergrad majoring in Software Engineering at Wuhan University, where I was mentored by [Peng Liang](https://www.researchgate.net/profile/Peng-Liang-4) and [Chong Wang](https://www.researchgate.net/profile/Chong-Wang-13). Currently, I'm also a research intern at Microsoft Research. During my undergrad years, I embarked on the world of research, enjoying the journey of discovery and receiving solid academic training along the way. I'm dedicated to the intersection of **Software Engineering** and **AI**, and I'm particularly interested in SE research that has practical implications.
+Hey there! 👋 I'm Linghao Zhang, a final year undergrad majoring in Software Engineering at Wuhan University, where I was mentored by [Peng Liang](https://www.researchgate.net/profile/Peng-Liang-4) and [Chong Wang](https://www.researchgate.net/profile/Chong-Wang-13). Currently, I'm also a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/). During my undergrad years, I embarked on the world of research, enjoying the journey of discovery and receiving solid academic training along the way. I'm dedicated to the intersection of **Software Engineering** and **AI**, and I'm particularly interested in SE research that has practical implications.
 
 *I'm looking for a PhD position in 25Fall.*
 
