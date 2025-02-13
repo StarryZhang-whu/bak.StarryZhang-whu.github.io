@@ -1,5 +1,13 @@
 main:
 
+  - title: "DI-Bench: Benchmarking Large Language Models on Dependency Inference with Testable Repositories"
+    authors: <strong>Linghao Zhang</strong>, Junhao Wang, Shilin He, Chaoyun Zhang, Yu Kang, Bowen Li, Jiaheng Wen, Chengxing Xie, Maoquan Wang, Yufan Huang, Elsie Nallipogu, Qingwei Lin, Yingnong Dang, Saravan Rajmohan, Dongmei Zhang, Qi Zhang
+    conference_short: arXiv
+    pdf: https://arxiv.org/pdf/2501.13699
+    code: https://github.com/Microsoft/DI-Bench
+    image: ./assets/img/teaser3.png
+    #notes: Preprint
+
   - title: RAG-Enhanced Commit Message Generation
     authors: <strong>Linghao Zhang</strong>, Hongyi Zhang, Chong Wang, Peng Liang
     conference_short: arXiv
