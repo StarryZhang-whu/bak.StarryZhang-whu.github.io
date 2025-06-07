@@ -1,8 +1,16 @@
 main:
 
+  - title: "SWE-bench Goes Live!"
+    authors: <strong>Linghao Zhang</strong>, Shilin He, Chaoyun Zhang, Yu Kang, Bowen Li, Chengxing Xie, Junhao Wang, Maoquan Wang, Yufan Huang, Shengyu Fu, Elsie Nallipogu, Qingwei Lin, Yingnong Dang, Saravan Rajmohan, Dongmei Zhang
+    conference_short: arXiv
+    pdf: https://arxiv.org/pdf/2505.23419
+    code: https://github.com/Microsoft/SWE-bench-Live
+    page: https://swe-bench-live.github.io/
+    image: ./assets/img/teaser4.png
+
   - title: "DI-Bench: Benchmarking Large Language Models on Dependency Inference with Testable Repositories"
     authors: <strong>Linghao Zhang</strong>, Junhao Wang, Shilin He, Chaoyun Zhang, Yu Kang, Bowen Li, Jiaheng Wen, Chengxing Xie, Maoquan Wang, Yufan Huang, Elsie Nallipogu, Qingwei Lin, Yingnong Dang, Saravan Rajmohan, Dongmei Zhang, Qi Zhang
-    conference_short: arXiv
+    conference_short: ACL Findings 2025
     pdf: https://arxiv.org/pdf/2501.13699
     code: https://github.com/Microsoft/DI-Bench
     image: ./assets/img/teaser3.png
